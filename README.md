@@ -8,8 +8,6 @@ Programa Desenvolvido no DEV C++ IDE.
 
 Código:
 
-//{
-
 #include "iostream"
 #include "cstdlib"
 #include "math.h"
@@ -177,6 +175,3 @@ int main()
 		} 
 return 0; 
 }
-
-
-//}
